@@ -60,3 +60,16 @@ serve -s build -l 4000
 Now you should be able to access the Netflix clone application by opening your web browser and navigating to `http://localhost:4000`.
 
 Enjoy exploring the Netflix clone!
+
+Step 01:- Basic Requirement
+* Go to AWS console and provision one Instance.
+* Netflix-Project — (AMI- Ubuntu 22.04, Type- t2.medium)
+<img width="956" alt="image" src="https://github.com/paulsantosh263/DevOps-Netflix-Clone-Project/assets/58592054/adce974e-d405-4e34-b335-2d62c40e6f5d">
+
+
+<img width="944" alt="image" src="https://github.com/paulsantosh263/DevOps-Netflix-Clone-Project/assets/58592054/0c49f36b-1a9b-4996-b47a-ac78423b23dc">
+Sucessfully Loged-In
+
+<img width="953" alt="image" src="https://github.com/paulsantosh263/DevOps-Netflix-Clone-Project/assets/58592054/62722930-c3f8-4eb5-9364-05e2086c9195">
+
+
