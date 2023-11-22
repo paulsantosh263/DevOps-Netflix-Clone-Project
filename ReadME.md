@@ -1,4 +1,4 @@
-## Setting Up the Netflix Clone Application
+## Setting Up the Netflix Clone Application Using AWS and Docker 
 
 Follow these steps to set up and run the Netflix clone application on your local machine:
 
